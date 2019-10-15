@@ -1,0 +1,39 @@
+.inputContainer {
+    text-Align: center;
+    border-Color: #0066ff;
+    width: 80%;
+    margin-Top: 10;
+    padding: 10px;
+    border-bottom-color: black;
+    border-width: 2px;
+    border-radius: 60px;
+  }
+  .logo {
+    margin-Top: 90px;
+    height: 100;
+  }
+  .header {
+    background-Color: #b3d1ff;
+    height: 30%;
+    
+  }
+  .footer {
+    height: 10%;
+    justify-Content: center;
+    align-Items: center;
+    display: flex;
+    flex-Direction: row;
+  }
+  .panel {
+    height: 60%;
+    justify-Content: center;
+    align-Items: center;
+  }
+  .heading {
+    font-Size: 50;
+    margin-Bottom: 50;
+  }
+  .check{
+    background-color: red;
+    padding: 100px;
+  }
